@@ -19,3 +19,8 @@ http://youtube.com/watch?v=7RiQ29n5k50
 
 5. How to Implement Your Own DOM? | Frontend Interview Question (MindTickle)
 [Implement Your Own Dom](./implement-you-own-dom/)
+
+6. Understanding setTimeout and setInterval | Implementation of setInterval Polyfill Part-1, Part-2| Devtools
+https://www.youtube.com/watch?v=qSCEjJL3z6c
+https://www.youtube.com/watch?v=79yHvDzVA_I
+[Set Timeout and Set Interval](./set-timeout-and-set-interval/)
