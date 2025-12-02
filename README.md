@@ -24,3 +24,7 @@ http://youtube.com/watch?v=7RiQ29n5k50
 https://www.youtube.com/watch?v=qSCEjJL3z6c
 https://www.youtube.com/watch?v=79yHvDzVA_I
 [Set Timeout and Set Interval](./set-timeout-and-set-interval/)
+
+7. How to Create Flat Version of Deeply Nested Array? | Frontend Interview Questions | Devtools Tech
+https://www.youtube.com/watch?v=bqKcfTfer0Q
+[Flat Version of Deeply Nested Array](./flat-version-of-deeply-nested-array/)
