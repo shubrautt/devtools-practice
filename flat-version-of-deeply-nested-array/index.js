@@ -67,3 +67,8 @@ function flatIt() {
 // Array.prototype.flatten = flatten;
 Array.prototype.flatten = flatIt;
 console.log(input.flatten());
+
+// TODO:// Follow Up question 
+// flatten based on depth value
+// without creating the new array
+
