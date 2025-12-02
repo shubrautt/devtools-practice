@@ -59,5 +59,11 @@ function flatten() {
     return flat;
 }
 
-Array.prototype.flatten = flatten;
+// Alternet solution
+function flatIt() {
+    return this.toString().split(",").map(element => Number(element));
+}
+
+// Array.prototype.flatten = flatten;
+Array.prototype.flatten = flatIt;
 console.log(input.flatten());
