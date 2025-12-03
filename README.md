@@ -28,3 +28,7 @@ https://www.youtube.com/watch?v=79yHvDzVA_I
 7. How to Create Flat Version of Deeply Nested Array? | Frontend Interview Questions | Devtools Tech
 https://www.youtube.com/watch?v=bqKcfTfer0Q
 [Flat Version of Deeply Nested Array](./flat-version-of-deeply-nested-array/)
+
+8. Chained Calculator | Frontend Interview Series | Puneet Ahuja | Devtools Tech
+https://www.youtube.com/watch?v=S4yfjshXWaE
+[Chained Calculator](./chained-calculator/)
